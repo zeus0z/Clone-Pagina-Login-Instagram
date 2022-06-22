@@ -1,2 +1,5 @@
+
 # Clone Pagina Login Instagram
- Clone de página de Login do Instagram para estudo durante o bootcamp da DIO
+
+Clone da página de Login do Instagram para estudo durante o bootcamp da Santander. 
+Realizado com uso de flexbox com foco na responsividade.
